@@ -1,2 +1,2 @@
-f87ab5b4-b7e9-4342-987f-492c9c0c4044
-hapikey
+personalAccessKey: >-
+      CiQ51111122233344455566788899912Zi0yMjk4NGJkZWExNDEQs6HdChjO5IsWKhk11111111aaaaabbbbaccccNq7ecdddddNSgeeeee
