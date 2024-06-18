@@ -2,3 +2,4 @@
 pat-na1-796a3b9c-28d1-48fd-a897-c1d986791121
 pat-na1-8012acc8-21f9-4df6-bd0e-8183bda1be9b
 e8350ca1-dd94-4b2f-8605-dbf69364fbee
+ hapikey
